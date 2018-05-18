@@ -1,0 +1,2 @@
+gcgccc-6.2.0-i686-w64-mingw32.tar.gz filter=lfs diff=lfs merge=lfs -text
+gcgccc-6.2.0-x86-64-linux-gnu.tar.gz filter=lfs diff=lfs merge=lfs -text
